@@ -2,7 +2,7 @@
 Form Into
 
 
-An adaptive epistemological refinement cycle for converting speculative propositions into externally validated operational knowledge through recursive feedback mechanisms.
+adaptive epistemological refinement cycle for converting speculative propositions into externally validated operational knowledge through recursive feedback mechanisms.
 
 
 💡
@@ -26,7 +26,7 @@ An adaptive epistemological refinement cycle for converting speculative proposit
 🔁
 
 # Translation:
-# An idea moves through a cycle:
+# ideas move through cycle:
 # proposed → documented → reviewed → shared → replicated
 # → tested → validated → adopted → improved → repeat
 

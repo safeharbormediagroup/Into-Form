@@ -45,3 +45,38 @@ cycle = [
 
 for step in cycle:
     print(step)
+
+
+PLANNING / FORMATION
+────────────────────
+
+💡
+↓
+📄
+↓
+👥👥👥
+↓
+✏️
+↓
+📄
+
+EXPOSURE
+────────
+
+🐙
+↓
+🍴🍴
+↓
+📢
+
+VALIDATION
+──────────
+
+🥇🥈🥉
+↓
+✅
+
+ADOPTION
+────────
+
+🏛️

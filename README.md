@@ -1,6 +1,7 @@
 # Into-Form-Simple-Diagram
 Form Into Simple Diagram
 
+[personal notes honestly]
 
 adaptive epistemological refinement cycle for converting speculative propositions into externally validated operational knowledge through recursive feedback mechanisms.
 
@@ -72,7 +73,7 @@ EXPOSURE
 VALIDATION
 ──────────
 
-🥇🥈🥉
+🥇🥈🥉 professional independent peers
 ↓
 ✅
 

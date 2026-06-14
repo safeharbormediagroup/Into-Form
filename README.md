@@ -1,7 +1,10 @@
 # Into-Form-Simple-Diagram
 Form Into Simple Diagram
 
-[personal notes honestly]
+[personal notes]
+
+technical explanation 
+
 
 adaptive epistemological refinement cycle for converting speculative propositions into externally validated operational knowledge through recursive feedback mechanisms.
 
@@ -26,7 +29,7 @@ adaptive epistemological refinement cycle for converting speculative proposition
  ↓
 🔁
 
-# Translation:
+# Non Technical Translation:
 # ideas move through cycle:
 # proposed → documented → reviewed → shared → replicated
 # → tested → validated → adopted → improved → repeat

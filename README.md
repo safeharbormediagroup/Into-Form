@@ -84,3 +84,19 @@ ADOPTION
 ────────
 
 🏛️
+
+
+Need
+↓
+Opportunity
+↓
+Who can do this?
+↓
+Team
+↓
+Proposal
+↓
+Win
+↓
+Deliver
+
